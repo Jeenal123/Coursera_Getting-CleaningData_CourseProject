@@ -1,7 +1,7 @@
 # Coursera_Getting-CleaningData_CourseProject
 Contains the Course Project of Getting and Cleaning Data - Coursera
 
-Files
+#Files
 
 The code takes for granted all the data is present in the same folder, un-compressed and without names altered.
 
